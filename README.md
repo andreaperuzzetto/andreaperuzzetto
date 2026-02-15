@@ -44,10 +44,6 @@ Databases
 
 Building a Retrieval-Augmented Generation pipeline using pgvector and PostgreSQL.
 
-Current progress:
-  -  Vector database setup  
-  -  Embedding pipeline  
-
 ---
 
 ## Current Focus
