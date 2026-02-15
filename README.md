@@ -21,7 +21,7 @@ I enjoy building practical projects that integrate:
 
 ---
 
-## 🛠️ Tech Stack (Learning & Using)
+## Tech Stack (Learning & Using)
 
 Frontend
   - HTML  
