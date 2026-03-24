@@ -155,9 +155,9 @@ The AI layer uses a **circuit breaker pattern** — if the model is unavailable 
 
 <div align="center">
 
-![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrepaeruzzetto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Andrea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreaperuzzetto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaeruzzetto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreaperuzzetto&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 </div>
 
