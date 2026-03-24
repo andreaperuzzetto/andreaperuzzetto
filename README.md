@@ -12,7 +12,7 @@
 ### Andrea Peruzzetto · Full Stack & AI Developer
 **Building intelligent, production-ready applications from Italy 🇮🇹**
 
-[![Email](https://img.shields.io/badge/Email-peruzzetto77%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:peruzzetto77@gmail.com)
+[![Email](https://img.shields.io/badge/Email-peruzzetto.saas%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:peruzzetto77@gmail.com)
 ![Location](https://img.shields.io/badge/Italy-Venice_Area-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=4285F4)
 ![Focus](https://img.shields.io/badge/Focus-Full_Stack_AI_Engineering-0d1117?style=flat-square&logo=openai&logoColor=white&labelColor=10a37f)
 
